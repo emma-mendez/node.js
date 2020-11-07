@@ -1,3 +1,5 @@
+// what ive learnt
+
 {
     "status": "success",
     "team": "Black Unicorns (Emma, Sam, Hawa)",
@@ -6,3 +8,4 @@
         "Your difference:  different universities"
     ]
 }
+
